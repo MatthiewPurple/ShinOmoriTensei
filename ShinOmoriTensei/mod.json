@@ -1,0 +1,38 @@
+{
+  "id": "ShinOmoriTensei",
+  "name": "Shin Omori Tensei",
+  "description": "All-in-one battle improvement pack",
+  "version": "1.5.5",
+  "files": {
+    "plugins": [
+      "plugins/"
+    ],
+    "text": [],
+    "data": [],
+    "data_pluto": [],
+    "maps": [],
+    "assets": [
+      "img/system/",
+      "img/characters/",
+      "img/enemies/",
+      "img/sv_actors/"
+    ],
+    "exec": [],
+    "plugins_delta": [],
+    "text_delta": [
+      "text_delta/"
+    ],
+    "maps_delta": [],
+    "data_delta": [
+      "data_delta/"
+    ]
+  },
+  "image_deltas": [
+    {
+      "patch":"img/faces/",
+      "with":"image_deltas/faces/",
+      "dir":true
+    }
+  ],
+  "_flags": ["do_olid"]
+}
