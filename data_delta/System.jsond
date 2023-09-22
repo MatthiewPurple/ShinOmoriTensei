@@ -1,0 +1,117 @@
+[
+  {
+    "op": "replace",
+    "path": "/variables/2000",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/variables/1965",
+    "value": "BUNNY-FIEND SECOND CHANCE"
+  },
+  {
+    "op": "replace",
+    "path": "/variables/1964",
+    "value": "GAEA RAGE COUNTDOWN"
+  },
+  {
+    "op": "replace",
+    "path": "/variables/1963",
+    "value": "BUNNY-FIEND PHASE"
+  },
+  {
+    "op": "replace",
+    "path": "/variables/1962",
+    "value": "BUNNY-FIEND SUMMON CYCLE"
+  },
+  {
+    "op": "replace",
+    "path": "/variables/1961",
+    "value": "// SOT TEST //"
+  },
+  {
+    "op": "replace",
+    "path": "/testTroopId",
+    "value": 898
+  },
+  {
+    "op": "replace",
+    "path": "/testBattlers/3/level",
+    "value": 50
+  },
+  {
+    "op": "add",
+    "path": "/testBattlers/3/equips/1",
+    "value": 77
+  },
+  {
+    "op": "replace",
+    "path": "/testBattlers/2/level",
+    "value": 50
+  },
+  {
+    "op": "replace",
+    "path": "/testBattlers/2/equips/0",
+    "value": 35
+  },
+  {
+    "op": "add",
+    "path": "/testBattlers/2/equips/1",
+    "value": 123
+  },
+  {
+    "op": "replace",
+    "path": "/testBattlers/1/level",
+    "value": 50
+  },
+  {
+    "op": "replace",
+    "path": "/testBattlers/1/equips/0",
+    "value": 22
+  },
+  {
+    "op": "add",
+    "path": "/testBattlers/1/equips/1",
+    "value": 121
+  },
+  {
+    "op": "replace",
+    "path": "/testBattlers/0/level",
+    "value": 50
+  },
+  {
+    "op": "replace",
+    "path": "/testBattlers/0/equips/0",
+    "value": 6
+  },
+  {
+    "op": "add",
+    "path": "/testBattlers/0/equips/1",
+    "value": 26
+  },
+  {
+    "op": "replace",
+    "path": "/switches/1968",
+    "value": "BUNNY-FIEND defeated"
+  },
+  {
+    "op": "replace",
+    "path": "/switches/1967",
+    "value": "Ready for GHASTLY WAIL"
+  },
+  {
+    "op": "replace",
+    "path": "/switches/1966",
+    "value": "DUST BUNNY first turn"
+  },
+  {
+    "op": "replace",
+    "path": "/switches/1965",
+    "value": "// SOT //"
+  },
+  {
+    "op": "replace",
+    "path": "/battleback1Name",
+    "value": "battleback_dw_perfectheart"
+  }
+]

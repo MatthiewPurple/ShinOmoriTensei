@@ -1,0 +1,15 @@
+[
+  {
+    "op": "add",
+    "path": "/1/traits/1",
+    "value": {
+      "code": 14,
+      "dataId": 300,
+      "value": 1
+    }
+  },
+  {
+    "op": "remove",
+    "path": "/1/traits/0"
+  }
+]

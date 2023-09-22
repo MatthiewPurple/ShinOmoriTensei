@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/message_41/text",
+    "value": "Battles start with no ENERGY,\\! 1 ENERGY is gained every time a friend deals normal damage\\! and 1 ENERGY is lost every time a foe deals normal damage.<br>3 ENERGY are gained every time a friend deals a strong hit or a critical hit\\! and 3 ENERGY are lost every time a friend deals a weak hit or misses.<br>3 ENERGY are also lost if a foe deals a strong hit or critical hit.<br><br>No energy is lost when a foe deals a weak hit or misses."
+  },
+  {
+    "op": "replace",
+    "path": "/message_40/text",
+    "value": "Doing a FOLLOW-UP costs 3 ENERGY, except for RELEASE ENERGY which costs 20."
+  }
+]
