@@ -1,0 +1,1781 @@
+[
+  {
+    "op": "replace",
+    "path": "/919/name",
+    "value": "FISH BUNNY SUMMON EX"
+  },
+  {
+    "op": "add",
+    "path": "/919/members/0",
+    "value": {
+      "enemyId": 1197,
+      "x": 592,
+      "y": 384,
+      "hidden": false
+    }
+  },
+  {
+    "op": "add",
+    "path": "/919/members/1",
+    "value": {
+      "enemyId": 1197,
+      "x": 624,
+      "y": 352,
+      "hidden": false
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/917/name",
+    "value": "GHOST BUNNY EX"
+  },
+  {
+    "op": "add",
+    "path": "/917/members/0",
+    "value": {
+      "enemyId": 1227,
+      "x": 408,
+      "y": 436,
+      "hidden": false
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/916/name",
+    "value": "PANCAKE BUNNY EX"
+  },
+  {
+    "op": "add",
+    "path": "/916/members/0",
+    "value": {
+      "enemyId": 1222,
+      "x": 408,
+      "y": 436,
+      "hidden": false
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/915/name",
+    "value": "MILKSHAKE BUNNY EX"
+  },
+  {
+    "op": "add",
+    "path": "/915/members/0",
+    "value": {
+      "enemyId": 1217,
+      "x": 408,
+      "y": 436,
+      "hidden": false
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/914/name",
+    "value": "CUPCAKE BUNNY EX"
+  },
+  {
+    "op": "add",
+    "path": "/914/members/0",
+    "value": {
+      "enemyId": 1212,
+      "x": 408,
+      "y": 436,
+      "hidden": false
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/913/name",
+    "value": "SPROUT BUNNY EX"
+  },
+  {
+    "op": "add",
+    "path": "/913/members/0",
+    "value": {
+      "enemyId": 1207,
+      "x": 408,
+      "y": 436,
+      "hidden": false
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/912/name",
+    "value": "SLIME BUNNY EX"
+  },
+  {
+    "op": "add",
+    "path": "/912/members/0",
+    "value": {
+      "enemyId": 1202,
+      "x": 408,
+      "y": 436,
+      "hidden": false
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/911/name",
+    "value": "FISH BUNNY EX"
+  },
+  {
+    "op": "add",
+    "path": "/911/members/0",
+    "value": {
+      "enemyId": 1197,
+      "x": 408,
+      "y": 436,
+      "hidden": false
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/910/name",
+    "value": "BUG BUNNY EX"
+  },
+  {
+    "op": "add",
+    "path": "/910/members/0",
+    "value": {
+      "enemyId": 1192,
+      "x": 408,
+      "y": 436,
+      "hidden": false
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/909/name",
+    "value": "BUN BUNNY EX"
+  },
+  {
+    "op": "add",
+    "path": "/909/members/0",
+    "value": {
+      "enemyId": 1187,
+      "x": 408,
+      "y": 436,
+      "hidden": false
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/908/name",
+    "value": "SNOW BUNNY EX"
+  },
+  {
+    "op": "add",
+    "path": "/908/members/0",
+    "value": {
+      "enemyId": 1182,
+      "x": 408,
+      "y": 436,
+      "hidden": false
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/907/name",
+    "value": "DUST BUNNY EX"
+  },
+  {
+    "op": "add",
+    "path": "/907/members/0",
+    "value": {
+      "enemyId": 1177,
+      "x": 408,
+      "y": 436,
+      "hidden": false
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/906/name",
+    "value": "SPACE BUNNY EX"
+  },
+  {
+    "op": "add",
+    "path": "/906/members/0",
+    "value": {
+      "enemyId": 1172,
+      "x": 408,
+      "y": 436,
+      "hidden": false
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/904/name",
+    "value": "BUNNY-FIEND SUMMONS 5"
+  },
+  {
+    "op": "add",
+    "path": "/904/members/0",
+    "value": {
+      "enemyId": 1222,
+      "x": 240,
+      "y": 436,
+      "hidden": false
+    }
+  },
+  {
+    "op": "add",
+    "path": "/904/members/1",
+    "value": {
+      "enemyId": 1227,
+      "x": 576,
+      "y": 416,
+      "hidden": false
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/903/name",
+    "value": "BUNNY-FIEND SUMMONS 4"
+  },
+  {
+    "op": "add",
+    "path": "/903/members/0",
+    "value": {
+      "enemyId": 1212,
+      "x": 240,
+      "y": 416,
+      "hidden": false
+    }
+  },
+  {
+    "op": "add",
+    "path": "/903/members/1",
+    "value": {
+      "enemyId": 1217,
+      "x": 576,
+      "y": 416,
+      "hidden": false
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/902/name",
+    "value": "BUNNY-FIEND SUMMONS 3"
+  },
+  {
+    "op": "add",
+    "path": "/902/members/0",
+    "value": {
+      "enemyId": 1202,
+      "x": 224,
+      "y": 416,
+      "hidden": false
+    }
+  },
+  {
+    "op": "add",
+    "path": "/902/members/1",
+    "value": {
+      "enemyId": 1207,
+      "x": 576,
+      "y": 416,
+      "hidden": false
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/901/name",
+    "value": "BUNNY-FIEND SUMMONS 2"
+  },
+  {
+    "op": "add",
+    "path": "/901/members/0",
+    "value": {
+      "enemyId": 1192,
+      "x": 240,
+      "y": 416,
+      "hidden": false
+    }
+  },
+  {
+    "op": "add",
+    "path": "/901/members/1",
+    "value": {
+      "enemyId": 1197,
+      "x": 560,
+      "y": 416,
+      "hidden": false
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/900/name",
+    "value": "BUNNY-FIEND SUMMONS 1"
+  },
+  {
+    "op": "add",
+    "path": "/900/members/0",
+    "value": {
+      "enemyId": 1182,
+      "x": 240,
+      "y": 416,
+      "hidden": false
+    }
+  },
+  {
+    "op": "add",
+    "path": "/900/members/1",
+    "value": {
+      "enemyId": 1187,
+      "x": 576,
+      "y": 416,
+      "hidden": false
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/899/name",
+    "value": "BUNNY-FIEND SUMMONS 0"
+  },
+  {
+    "op": "add",
+    "path": "/899/members/0",
+    "value": {
+      "enemyId": 1172,
+      "x": 240,
+      "y": 416,
+      "hidden": false
+    }
+  },
+  {
+    "op": "add",
+    "path": "/899/members/1",
+    "value": {
+      "enemyId": 1177,
+      "x": 576,
+      "y": 416,
+      "hidden": false
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/0/parameters/0",
+    "value": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/0/parameters/1",
+    "value": 8
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/0/parameters/2",
+    "value": false
+  },
+  {
+    "op": "replace",
+    "path": "/898/pages/0/list/0/code",
+    "value": 223
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/1",
+    "value": {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        6,
+        6,
+        0
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/2",
+    "value": {
+      "code": 101,
+      "indent": 0,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/3",
+    "value": {
+      "code": 401,
+      "indent": 0,
+      "parameters": [
+        "..."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/4",
+    "value": {
+      "code": 111,
+      "indent": 0,
+      "parameters": [
+        0,
+        1968,
+        1
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/5",
+    "value": {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        0,
+        1969,
+        1
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/6",
+    "value": {
+      "code": 111,
+      "indent": 2,
+      "parameters": [
+        12,
+        "$modLoader.knownMods.has('greenkel')"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/7",
+    "value": {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/8",
+    "value": {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "YOOOOOO IS THAT FUCKING GREEN KEL"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/9",
+    "value": {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/10",
+    "value": {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "FUNNIEST SHIT I'VE EVER SEEN FRFR"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/11",
+    "value": {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/12",
+    "value": {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "JESUS FUCKING CHRIST PIGMASK IS A GENIUS HOLY SHIT"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/13",
+    "value": {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/14",
+    "value": {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "SINCE THE PAST 2 MONTHS, I HAVE BEEN HAVING DREAMS ABOUT KEL FROM OMORI. THE DREAMS START OUT NORMAL, BUT THEN OUT OF NOWHERE, KEL IN A GREEN TINT SHOWS UP IN THE DREAM. THE MOMENT HE DOES, MY WHOLE BODY FREEZES AND I CAN'T MOVE. HE STARES AT ME EYES FOR A FEW SECONDS, AND HE STARTS SINGING MONEY MACHINE BY 100 GECS. UNTIL HE'S DONE SINGING, I CAN'T MOVE. MY BODY, PARALYZED FROM COLD FEAR, HAS TO STAND THERE AND WATCH GREEN KEL SING MONEY MACHINE. AND WHEN HE'S DONE SINGING, HE IMITATES THE SOUND AT THE END OF THE SONG WITH HIS MOUTH AND I FEEL MY CHEST TIGHTEN, WAKING UP RIGHT AFTER. THE TIGHTENING FEELING IN MY CHEST STAYS FOR A FEW MINUTES AFTER THE DREAM'S OVER. I HAVE TRIED EVERYTHING TO STOP THIS. DOCTORS TELL ME IT'S NOTHING SERIOUS, THERAPISTS TELL ME TO GO OUTSIDE MORE. I'VE TRIED GOING OUTSIDE, IT DOESN'T FUCKING WORK. I HAVE EVEN TRIED HAVING LUCID DREAMS, BUT MY CONTROL OVER THE DREAM ENDS COMPLETELY ONCE HE SHOWS UP. EVEN IN SLEEP PARALYSIS, THE MONSTER IN QUESTION THAT'S HAUNTING ME RANDOMLY STOPS BEING SCARY AND LOOKING AT A FIGURE TO THE LEFT OF ME IN THE BED. MOST OF THE TIME, I WAKE UP BEFORE I CAN SEE WHAT'S TO THE LEFT OF ME, BUT IF I SOMEHOW GATHER THE STRENGTH IN THE DREAM TO TURN MY HEAD TO THE LEFT, I CAN SEE GREEN KEL NEXT TO ME IN BED JUMPING AROUND LIKE CRAZY AND ONCE AGAIN SINGING MONEY MACHINE SECONDS BEFORE DROPKICKING ONTO MY FACE AND WAKING ME UP. I MADE THIS MOD IN HOPES THAT HE WOULD ACCEPT IT AS A SORT OF OFFERING, SOME SORT OF SACRIFICE FROM MY OWN SANITY FOR HIM TO STOP TORMENTING ME. BUT A FEW MINUTES LATER AFTER I COMPRESSED THE MOD INTO A ZIP FILE, I STARTED HEARING A VOICE IN MY HEAD. A DISTANT VOICE, HARD TO TELL WHO IT IS OR WHAT IT'S SAYING. BUT I CAN OCCASIONALLY MAKE OUT A FEW WORDS FROM THE VOICE SUCH AS \"BIG TRUCK\", \"CIGARETTES\", AND \"SO CLEAN LIKE\". I SEE A FIGURE STARING ME DOWN FROM THE HALLWAY WHENEVER I LEAVE MY ROOM, FACE UNRECOGNIZABLE BUT SKIN GREEN. IT RUNS INTO THE WALL AND DISAPPEARS FOR A FEW HOURS IF I TRY TO GET CLOSE TO IT, BUT I CAN HEAR IT SINGING SOMETHING UNDER IT'S BREATH IN A CHEERY TONE BEFORE IT ENTERS THE WALL. I ORIGINALLY PLANNED TO NOT RELEASE THE MOD, FOR I FEARED IT WOULD RELEASE HIS WRATH UPON OTHERS, BUT I DON'T THINK HE HAS ANY INTEREST IN ANYBODY ELSE OTHER THAN ME. WHATEVER THIS GREEN DEVIL IS WILL TERRORIZE AND MOCK ME UNTIL MY FLESH MERGES WITH THE SOIL. NO... WHO AM I KIDDING? DEATH WON'T FREE ME FROM HIM, FOR GREEN KEL WILL BE THERE WITH A SMIRK IN HIS FACE ONCE I REACH THE PEARLY GATES."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/15",
+    "value": {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/16",
+    "value": {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "anyways screw omori lol i aint giving him gaea rage you're far more deserving"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/17",
+    "value": {
+      "code": 101,
+      "indent": 3,
+      "parameters": [
+        "",
+        0,
+        0,
+        2
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/18",
+    "value": {
+      "code": 401,
+      "indent": 3,
+      "parameters": [
+        "also fuck hero"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/19",
+    "value": {
+      "code": 129,
+      "indent": 3,
+      "parameters": [
+        4,
+        1,
+        false
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/20",
+    "value": {
+      "code": 121,
+      "indent": 3,
+      "parameters": [
+        1969,
+        1969,
+        0
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/21",
+    "value": {
+      "code": 340,
+      "indent": 3,
+      "parameters": []
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/22",
+    "value": {
+      "code": 0,
+      "indent": 3,
+      "parameters": []
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/23",
+    "value": {
+      "code": 412,
+      "indent": 2,
+      "parameters": []
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/24",
+    "value": {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/25",
+    "value": {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/26",
+    "value": {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        12,
+        "4 != Snek.ModConfigs.checkConfig('Presets').index"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/27",
+    "value": {
+      "code": 339,
+      "indent": 2,
+      "parameters": [
+        0,
+        0,
+        1495,
+        -2
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/28",
+    "value": {
+      "code": 119,
+      "indent": 2,
+      "parameters": [
+        "End"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/29",
+    "value": {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/30",
+    "value": {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/31",
+    "value": {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        12,
+        "1 == Snek.ModConfigs.checkConfig('Multipliers restriction').index"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/32",
+    "value": {
+      "code": 339,
+      "indent": 2,
+      "parameters": [
+        0,
+        0,
+        1495,
+        -2
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/33",
+    "value": {
+      "code": 119,
+      "indent": 2,
+      "parameters": [
+        "End"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/34",
+    "value": {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/35",
+    "value": {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/36",
+    "value": {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        12,
+        "1 == Snek.ModConfigs.checkConfig('Stale moves').index"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/37",
+    "value": {
+      "code": 339,
+      "indent": 2,
+      "parameters": [
+        0,
+        0,
+        1495,
+        -2
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/38",
+    "value": {
+      "code": 119,
+      "indent": 2,
+      "parameters": [
+        "End"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/39",
+    "value": {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/40",
+    "value": {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/41",
+    "value": {
+      "code": 111,
+      "indent": 1,
+      "parameters": [
+        12,
+        "1 == Snek.ModConfigs.checkConfig('Scary critical hits').index"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/42",
+    "value": {
+      "code": 339,
+      "indent": 2,
+      "parameters": [
+        0,
+        0,
+        1495,
+        -2
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/43",
+    "value": {
+      "code": 119,
+      "indent": 2,
+      "parameters": [
+        "End"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/44",
+    "value": {
+      "code": 0,
+      "indent": 2,
+      "parameters": []
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/45",
+    "value": {
+      "code": 412,
+      "indent": 1,
+      "parameters": []
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/46",
+    "value": {
+      "code": 0,
+      "indent": 1,
+      "parameters": []
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/47",
+    "value": {
+      "code": 412,
+      "indent": 0,
+      "parameters": []
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/48",
+    "value": {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1962,
+        1962,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/49",
+    "value": {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1963,
+        1963,
+        0,
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/50",
+    "value": {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1964,
+        1964,
+        0,
+        0,
+        6
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/51",
+    "value": {
+      "code": 122,
+      "indent": 0,
+      "parameters": [
+        1965,
+        1965,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/52",
+    "value": {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        1966,
+        1966,
+        1
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/53",
+    "value": {
+      "code": 121,
+      "indent": 0,
+      "parameters": [
+        1967,
+        1967,
+        1
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/54",
+    "value": {
+      "code": 241,
+      "indent": 0,
+      "parameters": [
+        {
+          "name": "boss_sweetheart",
+          "volume": 90,
+          "pitch": 110,
+          "pan": 0
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/55",
+    "value": {
+      "code": 118,
+      "indent": 0,
+      "parameters": [
+        "End"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/0/list/56",
+    "value": {
+      "code": 0,
+      "indent": 0,
+      "parameters": []
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/898/pages/0/conditions/turnValid",
+    "value": true
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/1",
+    "value": {
+      "conditions": {
+        "actorHp": 50,
+        "actorId": 1,
+        "actorValid": false,
+        "enemyHp": 50,
+        "enemyIndex": 0,
+        "enemyValid": false,
+        "switchId": 1,
+        "switchValid": false,
+        "turnA": 0,
+        "turnB": 1,
+        "turnEnding": true,
+        "turnValid": false
+      },
+      "list": [
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            1,
+            1964,
+            0,
+            0,
+            3
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1964,
+            1964,
+            2,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            0,
+            1966,
+            0
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 1,
+          "parameters": [
+            1966,
+            1966,
+            1
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "span": 1
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/2",
+    "value": {
+      "conditions": {
+        "actorHp": 50,
+        "actorId": 1,
+        "actorValid": false,
+        "enemyHp": 50,
+        "enemyIndex": 0,
+        "enemyValid": true,
+        "switchId": 1,
+        "switchValid": false,
+        "turnA": 0,
+        "turnB": 0,
+        "turnEnding": false,
+        "turnValid": false
+      },
+      "list": [
+        {
+          "code": 121,
+          "indent": 0,
+          "parameters": [
+            6,
+            6,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 0,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 0,
+          "parameters": [
+            "..."
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            1,
+            1963,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1963,
+            1963,
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            1,
+            1963,
+            0,
+            3,
+            0
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1963,
+            1963,
+            0,
+            0,
+            4
+          ]
+        },
+        {
+          "code": 241,
+          "indent": 1,
+          "parameters": [
+            {
+              "name": "boss_perfectheart",
+              "volume": 90,
+              "pitch": 110,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 333,
+          "indent": 1,
+          "parameters": [
+            0,
+            0,
+            108
+          ]
+        },
+        {
+          "code": 337,
+          "indent": 1,
+          "parameters": [
+            0,
+            218,
+            false
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "span": 1
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/3",
+    "value": {
+      "conditions": {
+        "actorHp": 0,
+        "actorId": 1,
+        "actorValid": false,
+        "enemyHp": 0,
+        "enemyIndex": 0,
+        "enemyValid": true,
+        "switchId": 1,
+        "switchValid": false,
+        "turnA": 0,
+        "turnB": 0,
+        "turnEnding": false,
+        "turnValid": false
+      },
+      "list": [
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            1,
+            1965,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 1,
+          "parameters": [
+            6,
+            6,
+            1
+          ]
+        },
+        {
+          "code": 331,
+          "indent": 1,
+          "parameters": [
+            0,
+            0,
+            0,
+            1,
+            true
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "BUNNY-FIEND did not succumb."
+          ]
+        },
+        {
+          "code": 122,
+          "indent": 1,
+          "parameters": [
+            1965,
+            1965,
+            0,
+            0,
+            1
+          ]
+        },
+        {
+          "code": 241,
+          "indent": 1,
+          "parameters": [
+            {
+              "name": "placeholder_aubrey_maybe",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "span": 0
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/4",
+    "value": {
+      "conditions": {
+        "actorHp": 0,
+        "actorId": 1,
+        "actorValid": false,
+        "enemyHp": 0,
+        "enemyIndex": 0,
+        "enemyValid": true,
+        "switchId": 1,
+        "switchValid": false,
+        "turnA": 0,
+        "turnB": 0,
+        "turnEnding": false,
+        "turnValid": false
+      },
+      "list": [
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            1,
+            1965,
+            0,
+            1,
+            0
+          ]
+        },
+        {
+          "code": 241,
+          "indent": 1,
+          "parameters": [
+            {
+              "name": "",
+              "volume": 90,
+              "pitch": 100,
+              "pan": 0
+            }
+          ]
+        },
+        {
+          "code": 117,
+          "indent": 1,
+          "parameters": [
+            331
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 1,
+          "parameters": [
+            6,
+            6,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 1,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 1,
+          "parameters": [
+            "..."
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 1,
+          "parameters": [
+            10
+          ]
+        },
+        {
+          "code": 331,
+          "indent": 1,
+          "parameters": [
+            -1,
+            1,
+            0,
+            9999,
+            true
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "span": 0
+    }
+  },
+  {
+    "op": "add",
+    "path": "/898/pages/5",
+    "value": {
+      "conditions": {
+        "actorHp": 0,
+        "actorId": 1,
+        "actorValid": true,
+        "enemyHp": 50,
+        "enemyIndex": 0,
+        "enemyValid": false,
+        "switchId": 1,
+        "switchValid": false,
+        "turnA": 0,
+        "turnB": 0,
+        "turnEnding": false,
+        "turnValid": false
+      },
+      "list": [
+        {
+          "code": 111,
+          "indent": 0,
+          "parameters": [
+            4,
+            2,
+            6,
+            1
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 1,
+          "parameters": [
+            4,
+            3,
+            6,
+            1
+          ]
+        },
+        {
+          "code": 111,
+          "indent": 2,
+          "parameters": [
+            4,
+            4,
+            6,
+            1
+          ]
+        },
+        {
+          "code": 121,
+          "indent": 3,
+          "parameters": [
+            6,
+            6,
+            0
+          ]
+        },
+        {
+          "code": 101,
+          "indent": 3,
+          "parameters": [
+            "",
+            0,
+            0,
+            2
+          ]
+        },
+        {
+          "code": 401,
+          "indent": 3,
+          "parameters": [
+            "..."
+          ]
+        },
+        {
+          "code": 230,
+          "indent": 3,
+          "parameters": [
+            10
+          ]
+        },
+        {
+          "code": 0,
+          "indent": 3,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 2,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 1,
+          "parameters": []
+        },
+        {
+          "code": 412,
+          "indent": 0,
+          "parameters": []
+        },
+        {
+          "code": 0,
+          "indent": 0,
+          "parameters": []
+        }
+      ],
+      "span": 0
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/898/name",
+    "value": "BUNNY-FIEND"
+  },
+  {
+    "op": "add",
+    "path": "/898/members/0",
+    "value": {
+      "enemyId": 1167,
+      "x": 408,
+      "y": 400,
+      "hidden": false
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/897/name",
+    "value": "// SOT TEST //"
+  },
+  {
+    "op": "replace",
+    "path": "/223/pages/0/list/0/parameters/4",
+    "value": "\"LUCIUS\""
+  },
+  {
+    "op": "replace",
+    "path": "/222/pages/0/list/0/parameters/4",
+    "value": "\"LUCIUS\""
+  },
+  {
+    "op": "replace",
+    "path": "/221/pages/0/list/0/parameters/4",
+    "value": "\"LUCIUS\""
+  },
+  {
+    "op": "replace",
+    "path": "/216/pages/0/list/0/parameters/4",
+    "value": "\"THERESE\""
+  },
+  {
+    "op": "replace",
+    "path": "/215/pages/0/list/0/parameters/4",
+    "value": "\"THERESE\""
+  },
+  {
+    "op": "replace",
+    "path": "/214/pages/0/list/0/parameters/4",
+    "value": "\"THERESE\""
+  },
+  {
+    "op": "replace",
+    "path": "/209/pages/0/list/0/parameters/4",
+    "value": "\"MARSHA\""
+  },
+  {
+    "op": "replace",
+    "path": "/208/pages/0/list/0/parameters/4",
+    "value": "\"MARSHA\""
+  },
+  {
+    "op": "replace",
+    "path": "/207/pages/0/list/0/parameters/4",
+    "value": "\"MARSHA\""
+  },
+  {
+    "op": "replace",
+    "path": "/201/pages/0/list/1/parameters/4",
+    "value": "\"HAROLD\""
+  },
+  {
+    "op": "replace",
+    "path": "/200/pages/0/list/1/parameters/4",
+    "value": "\"HAROLD\""
+  },
+  {
+    "op": "replace",
+    "path": "/199/pages/0/list/1/parameters/4",
+    "value": "\"HAROLD\""
+  },
+  {
+    "op": "replace",
+    "path": "/198/pages/0/list/1/parameters/4",
+    "value": "\"HAROLD\""
+  },
+  {
+    "op": "remove",
+    "path": "/1/pages/5/list/2"
+  },
+  {
+    "op": "remove",
+    "path": "/1/pages/5/list/1"
+  },
+  {
+    "op": "remove",
+    "path": "/1/pages/5/list/0/parameters/0"
+  },
+  {
+    "op": "replace",
+    "path": "/1/pages/5/list/0/code",
+    "value": 0
+  },
+  {
+    "op": "remove",
+    "path": "/1/pages/1/list/12"
+  },
+  {
+    "op": "remove",
+    "path": "/1/pages/1/list/11"
+  },
+  {
+    "op": "remove",
+    "path": "/1/pages/1/list/10"
+  },
+  {
+    "op": "remove",
+    "path": "/1/pages/1/list/9"
+  },
+  {
+    "op": "remove",
+    "path": "/1/pages/1/list/8"
+  },
+  {
+    "op": "remove",
+    "path": "/1/pages/1/list/7"
+  },
+  {
+    "op": "remove",
+    "path": "/1/pages/1/list/6"
+  },
+  {
+    "op": "remove",
+    "path": "/1/pages/1/list/5"
+  },
+  {
+    "op": "remove",
+    "path": "/1/pages/1/list/4"
+  },
+  {
+    "op": "remove",
+    "path": "/1/pages/1/list/3"
+  },
+  {
+    "op": "remove",
+    "path": "/1/pages/1/list/2"
+  },
+  {
+    "op": "remove",
+    "path": "/1/pages/1/list/1"
+  },
+  {
+    "op": "remove",
+    "path": "/1/pages/1/list/0/parameters/0"
+  },
+  {
+    "op": "replace",
+    "path": "/1/pages/1/list/0/code",
+    "value": 0
+  }
+]
